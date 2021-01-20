@@ -1,6 +1,5 @@
 package models;
 
-import pony.text.tpl.TplData.TplShortTag;
 import pony.text.tpl.ITplPut;
 import pony.net.http.modules.mmodels.ModelPut;
 import pony.db.DBV;
