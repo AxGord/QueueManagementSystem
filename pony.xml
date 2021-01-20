@@ -15,9 +15,9 @@
 		<vk type="stringmap"/>
 	</config>
 	<haxelib>
-		<lib>pony dev</lib>
+		<lib>pony 1.3.4</lib>
 		<lib>hxnodejs 12.0.0</lib>
-		<lib>continuation</lib>
+		<lib>continuation dev</lib>
 	</haxelib>
 	<build>
 		<prepare hxml="app">
